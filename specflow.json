@@ -1,0 +1,11 @@
+{
+  "stepAssemblies": [
+    { "assembly": "CorreiosAutomationProject" }
+  ],
+  "unitTestProvider": {
+    "name": "nUnit"
+  },
+  "bindingCulture": {
+    "name": "pt-BR"
+  }
+}
